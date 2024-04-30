@@ -40,7 +40,5 @@ jobs:
 
       - name: Check version of PAC
         run: |
-          pac
-          pac help
-          pac auth list
+          which pac
             
