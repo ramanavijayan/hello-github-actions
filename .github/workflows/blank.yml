@@ -40,5 +40,6 @@ jobs:
 
       - name: Check version of PAC
         run: |
-          which pac
+          /tmp/powerplatform-actions-0mVwFW/pac
+          /tmp/powerplatform-actions-0mVwFW/pac help
             
